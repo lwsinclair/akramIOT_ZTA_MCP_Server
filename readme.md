@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/mcp-mirror-akramiot-zta-mcp-server-badge.png)](https://mseep.ai/app/mcp-mirror-akramiot-zta-mcp-server)
+
 """
 ##  ZTA Paradigm based MCP Server Authentication Setup
 
